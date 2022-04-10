@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shippaishi aka Rishabh
+- 👋 Hi, I’m @shippaishi
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
