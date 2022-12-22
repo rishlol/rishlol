@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shippaishi
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning MERN
+- 💞️ I’m looking to collaborate on anything. hmu!
 - 📫 How to reach me ...
 
 <!---
