@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shippaishi
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently learning Large Language Models (RoBERTa)
 - 💞️ I’m looking to collaborate on anything. hmu!
 - 📫 How to reach me ...
 
