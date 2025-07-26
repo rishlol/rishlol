@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rishabh
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning ML Model Architectures
-- 💞️ I’m looking to collaborate on anything. hmu!
+- 👀 I’m interested in being employed
+- 🌱 I’m currently learning
+- 💞️ I’m looking to work
 - 📫 How to reach me ...
 
 <!---
